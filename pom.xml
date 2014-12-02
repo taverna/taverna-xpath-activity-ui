@@ -73,6 +73,22 @@
       <artifactId>configuration-impl</artifactId>
       <version>${t2.ui.impl.version}</version>
     </dependency>
+
+	<!-- For the visit explainer -->
+	<dependency>
+		<groupId>net.sf.taverna.t2.ui-api</groupId>
+		<artifactId>report-api</artifactId>
+		<version>${t2.ui.api.version}</version>
+	</dependency>
+	<!-- 
+	   for opening configuration dialog of XPath activity 
+	   from 'Solution' area of 'VisitExplainer'
+	-->
+	<dependency>
+		<groupId>net.sf.taverna.t2.ui-components</groupId>
+		<artifactId>report-view</artifactId>
+		<version>${t2.ui.components.version}</version>
+	</dependency>
     
   </dependencies>
         <repositories>
