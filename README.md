@@ -1,5 +1,7 @@
-Taverna Workflow system XPath Activity: User Interface part for use in the Taverna Workbench.
+# Moved to Apache Taverna
 
-Extends https://github.com/taverna/taverna-xpath-activity
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository 
+[incubator-taverna-workbench-commonactivities](https://github.com/apache/incubator-taverna-workbench-commonactivities)
 
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/ui/net.sf.taverna.t2.ui-activities/
+This repository is kept for historical reasons - see the tags and branches.
